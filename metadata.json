@@ -1,0 +1,6 @@
+{
+  "name": "GoLocal",
+  "description": "A hyperlocal transit app featuring live bus tracking, ticket booking, velocity monitoring, and an intelligent context-aware transit assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
